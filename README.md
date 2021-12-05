@@ -1,8 +1,8 @@
-# MSP32-Examples
+# MSP432-Examples
 Some simple programs to help familiarize the user with the MSP432P401R
 
 
-Knight Rider Code
+***Knight Rider Code***
 
 Materials Required:
 
